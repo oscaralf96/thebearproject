@@ -1,0 +1,6 @@
+POSTGRES_HOST=bearproject_postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=Thebearproject
+POSTGRES_USER=Thebearproject
+POSTGRES_PASSWORD=!Thebearproject30
+DATABASE_URL=bearproject_postgres://Thebearproject:%21Thebearproject30@bearproject_postgres:5432/Thebearproject
