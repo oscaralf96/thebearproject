@@ -14,9 +14,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "3.143.173.23",
-    "dev.krakenlabs.site"]
+    "dev.thebearproject.site"]
 
 CSRF_TRUSTED_ORIGINS = [
     "http://3.143.173.23:8080"
-    "http://dev.krakenlabs.site",
+    "http://dev.thebearproject.site",
 ]
